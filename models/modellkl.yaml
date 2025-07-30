@@ -1,0 +1,9 @@
+title: modellkl
+x-stoplight:
+  id: r36y3rluppywl
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: xt9v6alm1z4tm
